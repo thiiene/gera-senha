@@ -35,3 +35,30 @@ body {
     font-weight: 500;
     font-style: italic;
 }
+
+/* ÁREA DA SENHA */
+
+.display-box {
+    width: 100%;
+    min-height: 85px;
+
+    background-color: 54ff00;
+
+    display: flex;
+    align-items: center;
+
+    padding: 20ppx 25px;
+
+    margin-bottom: 55px;
+}
+#password {
+    color:white;
+    font-size: 22px;
+    font-weight: bold;
+    flex: 1;
+}
+
+.copy-btn {
+    background: transparent;
+    border: 2px solid white;
+}
