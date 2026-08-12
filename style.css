@@ -70,4 +70,15 @@ body {
 
     font-weight: bold;
 }
+.copy-btn:hover {
+    background-color: white;
+    color: #111111;
+}
+
+/* SEÇÃO PERSONALIZE */
+.custom-section {
+    background-color: #54ff00;
+    padding: 25px 30px 30px;
+    min-height: 260px;
+}
 
